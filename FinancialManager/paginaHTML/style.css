@@ -1,0 +1,110 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    display: inline;   
+}
+
+h3 {
+    text-align: center;
+    display: inline;   
+}
+
+.menu {
+    position: relative;
+    width: 960px;
+    margin: 0 auto;
+}
+
+nav {
+    text-align: center;
+    padding-right: 65px;
+}
+
+nav li {
+    text-align: center;
+    display:inline;
+    margin: 0 0 0 10px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: gray;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: chocolate;
+}
+
+.container {
+    text-align: center;
+}
+
+.centraliza {
+    height: 450px;
+    width: 900px;
+    margin: 0 auto; /* alinha o iframe */
+}
+
+.centralizado {
+    text-align: center;
+}
+
+.centralizatexto {
+    text-align: center;
+    display: inline-block;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.centralizador {
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+    border-radius: 1000px;
+    display: inline;    
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px;;
+}
+
+.desc1 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 790px ;
+}
+
+.desc2 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 390px ;
+}
+
+.pe {
+    margin-top: 300px;
+    text-align: center;
+    padding: 40px 0;
+}
+
+footer {
+    margin-top: 300px;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.copyright {
+    color: black;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
