@@ -1,11 +1,16 @@
 # Financial-Manager
+
+## ℹ️ Description
+
 The Financial Manager is the semi-annual project of the `Algorithm Development` subject (C).<br>
 Coded in 2022.1 at the [FEI](https://portal.fei.edu.br/) college, located in São Bernardo do Campo/SP/BR.<br>
 The project was done in pairs, but one of the members preferred to remain anonymous in this repository.<br>
 
-⚠️Some of the code and other parts may be in portuguese.
+⚠️Some of the code and other parts may be in Portuguese, work in progress for English.
 
-INSTRUCTIONS
+---
+
+## 📝 Instructions
 
 To run the project, follow these steps:<br>
 1 - run the file "main.c"<br>
@@ -13,7 +18,18 @@ To run the project, follow these steps:<br>
 3 - after registering the information and closing the code "main.c", open the file "index.html" located in the folder "paginaHTML"<br>
 4 - browse the site, viewing the extracts, the Home page and the developers page.<br>
 
-REQUIREMENTS
+---
+
+
+## 🛠️ **Technologies**
+
+![HTML Badge](https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35) 
+![CSS Badge](https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236) 
+![C Badge](https://camo.githubusercontent.com/d85743d50d2150d990e65031be13d21bbb79de159cb06c81d049561faf7cdcba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3035313232413f7374796c653d666c6174266c6f676f3d43)
+
+---
+
+## 📃 Obligations
 
 Mandatory Features<br>
 a) Record of income and expenses with values, descriptions and dates;<br>
@@ -68,3 +84,7 @@ b) Visual presentation of results through graphics<br>
 c) Use of more elaborate data structures such as lists, queues, stacks, trees and graphs.<br>
 
 a) The index.html file is part of the project, interacting with the user and presenting the results of the movements.<br>
+
+---
+
+Made by [**Ze Neto**](https://github.com/zejsneto/) 
