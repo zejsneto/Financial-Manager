@@ -84,7 +84,8 @@ b) Visual presentation of results through graphics<br>
 c) Use of more elaborate data structures such as lists, queues, stacks, trees and graphs.<br>
 
 a) The index.html file is part of the project, interacting with the user and presenting the results of the movements.<br>
-
+<!---
 ---
 
 Made by [**Ze Neto**](https://github.com/zejsneto/) 
+--->
